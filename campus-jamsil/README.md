@@ -1,6 +1,9 @@
 ### 사진 순서
-1. 10.png
-2. jamsil-9.png
+> 9번 (location.png)
+![](/campus-jamsil/location.png)
+
+> 10번째 (location.png)
+![](/campus-jamsil/end.png)
 
 ### 글
 
