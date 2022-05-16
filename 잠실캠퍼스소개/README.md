@@ -35,10 +35,13 @@
 
 📮 5월 둘째주 <캠퍼스 - 잠실편-> 소식
 
-유튜브:https://www.youtube.com/c/%EC%9A%B0%EC%95%84%ED%95%9CTech
+잠실 캠퍼스는 골프 컨셉으로 이루어져 있습니다.
+데일리 미팅, 페어, 강의 등등 크루들이 함께 학습할 수 있는 공간들로 채워져 있습니다.
 
-지원 사이트:https://woowacourse.github.io
+우아한Tech 유튜브:https://www.youtube.com/c/%EC%9A%B0%EC%95%84%ED%95%9CTech
 
-블로그:https://tecoble.techcourse.co.kr
+우아한테크코스 홈페이지:https://woowacourse.github.io
 
-#우아한테크코스#우테코#잠실#루터회관#개발자#java#javascript#spring#개발문화#개발#개발자#woowatechcourse
+우테코 블로그(Tecoble):https://tecoble.techcourse.co.kr
+
+#우아한테크코스#우테코#잠실#루터회관#개발자#java#javascript#spring#react#개발문화#개발#개발자#woowahantechcourse#wooteco#techcourse
