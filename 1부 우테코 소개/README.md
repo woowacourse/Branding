@@ -23,3 +23,17 @@
 
 8번 - 008.png
 ![](/1부%20우테코%20소개/008.png)
+
+### **글**
+
+📮 5월 둘째주 <우아한테크코스 소개 - 1부> 소식
+
+(추가적인 설명 1~2)
+
+우아한Tech 유튜브 : [https://www.youtube.com/c/%EC%9A%B0%EC%95%84%ED%95%9CTech](https://www.youtube.com/c/%EC%9A%B0%EC%95%84%ED%95%9CTech)
+
+우아한테크코스 홈페이지 : [https://woowacourse.github.io](https://woowacourse.github.io/)
+
+우테코 블로그(Tecoble) : [https://tecoble.techcourse.co.kr](https://tecoble.techcourse.co.kr/)
+
+#우아한테크코스 #우테코 #잠실 #루터회관 #개발자 #java #javascript #spring #react #개발문화 #개발 #개발자 #woowahantechcourse #wooteco #techcourse
