@@ -21,10 +21,17 @@
 ![](/2부%20지원과정%20소개/006.png)
 
 📮 5월 넷째주 <우아한테크코스 소개 - 2부> 지원 과정 미리보기
+
 우아한테크코스의 교육생이 되기 위해서는 어떻게 해야할까요?
+
 우테코는 지원서 제출, 코딩테스트, 프리코스, 최종 코딩테스트를 거쳐 교육생을 선발합니다!
+
 우테코 지원 과정을 간단히 소개합니다!
+
 우아한Tech 유튜브 : https://www.youtube.com/c/%EC%9A%B0%EC%95%84%ED%95%9CTech
+
 우아한테크코스 홈페이지 : https://woowacourse.github.io
+
 우테코 블로그(Tecoble) : https://tecoble.techcourse.co.kr
+
 #우아한테크코스 #우테코 #잠실 #선릉 #부트캠프 #java #javascript #spring #react #개발문화 #개발 #개발자 #wooteco #techcourse #코딩테스트
