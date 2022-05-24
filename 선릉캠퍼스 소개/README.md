@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### 선릉캠퍼스 소개 초본
 
 ![](001.png)
@@ -37,3 +38,5 @@
 우테코 블로그(Tecoble) : [https://tecoble.techcourse.co.kr](https://tecoble.techcourse.co.kr/)
 
 #우아한테크코스 #우테코 #잠실 #테크살롱 #선릉 #부트캠프 #java #javascript #spring #react #개발문화 #개발 #개발자 #wooteco #techcourse
+=======
+>>>>>>> da32f53c7fc1b3e412f439a7c0a0fd7effbe00b6
