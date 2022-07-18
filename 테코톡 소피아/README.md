@@ -24,7 +24,7 @@
 
 ⬇️ ⬇️ 데이터 타입과 불변성에 대해서 더 자세한 내용은 아래 링크를 참고해 주세요 ⬇️ ⬇️
 
-우아한Tech 브랜치 전략 유튜브: https://www.youtube.com/watch?v=hM8s3ZaycGk
+우아한Tech 데이터 타입과 불변성 유튜브: https://www.youtube.com/watch?v=hM8s3ZaycGk
 
 우아한Tech 유튜브 : https://www.youtube.com/c/%EC%9A%B0%EC%95%84%ED%95%9CTech
 
